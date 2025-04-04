@@ -36,8 +36,7 @@ Visualizations & Dashboards
 📊 Top Categories & Products by Sales
 📊 Customer Segmentation Analysis
 📊 Discount vs. Profitability Impact
-
-(Replace with an actual image or GIF of your dashboard)
+![Capture now](https://github.com/user-attachments/assets/9fdec7ff-fddf-421e-b4a5-f1427ea9fa22)
 
 How to Use This Repository
 
