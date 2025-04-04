@@ -30,7 +30,6 @@ Technologies Used
 
 Power BI – Interactive dashboards and data visualization
 Excel – Data cleaning and preparation
-SQL/Python (if used) – Data transformation and querying
 Visualizations & Dashboards
 
 📊 Sales Trend Over Time
@@ -38,7 +37,8 @@ Visualizations & Dashboards
 📊 Customer Segmentation Analysis
 📊 Discount vs. Profitability Impact
 
-(Replace with an actual image or GIF of your dashboard)
+
+![Capture now](https://github.com/user-attachments/assets/f4a0781b-b7f9-4085-af3e-8c5efec5cfa4)
 
 How to Use This Repository
 
