@@ -30,7 +30,6 @@ Technologies Used
 
 Power BI – Interactive dashboards and data visualization
 Excel – Data cleaning and preparation
-SQL/Python (if used) – Data transformation and querying
 Visualizations & Dashboards
 
 📊 Sales Trend Over Time
